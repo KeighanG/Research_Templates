@@ -5,4 +5,6 @@ Contained are two files, one to determine quantum yield (from HPLC data and abso
 
 The code is not universal and will not work for every variety of experiment you might run, so expect to have to alter code in places. 
 
+To download all items contained in this repository, click the green "code" button and click "download ZIP". Then upload my code files to your jupyterhub. 
+
 Questions about the code in this repository can be sent to Keighan Gemmell (keighan@chem.ubc.ca)
