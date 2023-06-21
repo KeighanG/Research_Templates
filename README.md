@@ -7,6 +7,8 @@ Contained are script two files, one to determine singlet oxygen quantum yield an
 
 There is also a csv file titled '1O2 Quantum Yield Template.csv' which is used for the most current Irradiation data (download this as well). 
 
+Once you have downloaded the files, upload them to your jupyterhub (you can simply drag and drop) and follow the instructions in the individual template
+
 The code is not universal and will not work for every variety of experiment you might run, so expect to have to alter code in places. 
 
 To download all items contained in this repository, click the green "code" button and click "download ZIP". Then upload my code files to your jupyterhub. 
