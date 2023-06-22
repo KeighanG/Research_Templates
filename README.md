@@ -5,6 +5,8 @@ You will need to run these scripts on a system compatable with Jupyter notebooks
 
 Contained are script two files, one to determine singlet oxygen quantum yield and steady state concentrations from HPLC data and absorbances, and one to visually analyze UV-Vis data (more files to come). 
 
+To download individual files, click on the file and press the download button in the top right corner of the file preview.
+
 There is also a csv file titled '1O2 Quantum Yield Template.csv' which is used for the most current Irradiation data (download this as well). 
 
 Once you have downloaded the files, upload them to your jupyterhub (you can simply drag and drop) and follow the instructions in the individual template
