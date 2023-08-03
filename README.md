@@ -1,4 +1,4 @@
-# Singlet_Oxygen, Triplet_States & Actinometry
+# Singlet Oxygen, Triplet States & Chemical Actinometry Templates
 This repository contains: 
   - The scripts required to analyze singlet oxygen experimental data using a chemical probe of furfuryl alcohol and a reference sensitizer of perinapthenone.
   - The scripts required to analyze "double probe" experiments for simultaneous triplet state and singlet oxygen quantification
