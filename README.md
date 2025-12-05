@@ -6,8 +6,9 @@ This repository contains:
   - The scripts required to analyze "double probe" experiments for simultaneous triplet state and singlet oxygen quantification
   - The scripts required to do chemical actinometry calculations and conversion to sunlight irradiance time for atmospheric relevance.
   - A script to plot UV-Vis data
+  - A script to calculate absolute irradiance using 2-nitrobenzaldehyde (2NB) chemical actinometry
 
-You will need to run these scripts on a system compatable with Jupyter notebooks (ipynb file extension). I recommend the UBC Syzygy server (https://ubc.syzygy.ca/) where every student (and I assume staff) can sign in using their CWL. 
+You will need to run these scripts on a system compatable with Jupyter notebooks (ipynb file extension). I recommend the UBC Syzygy server (https://ubc.syzygy.ca/) where every student (and I assume staff) can sign in using their CWL, or UBC advanced research computing resources. 
 
 To download individual files, click on the file and press the download button in the top right corner of the file preview.
 
